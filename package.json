@@ -1,0 +1,33 @@
+{
+  "name": "happy",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start:web": "yarn workspace @happy/web start",
+    "start:server": "yarn workspace @happy/server start",
+    "start:mobile": "yarn workspace @happy/mobile start",
+    "test": "jest",
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx ./",
+    "fix": "eslint --ext .js,.jsx,.ts,.tsx  --fix ./"
+  },
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ],
+    "nohoist": [
+      "**/typeorm",
+      "**/typeorm/**"
+    ]
+  },
+  "devDependencies": {
+    "@happy/eslint-config": "*",
+    "@types/jest": "^26.0.5",
+    "ts-jest": "^26.1.3",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "jest": "24.9.0"
+  }
+}
