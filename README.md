@@ -1,175 +1,57 @@
+<h1 align="center">
+    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+</h1>
+
 <p align="center">
-   <img src="https://github.com/solrachix/happy/blob/master/.github/logo.png?raw=true" alt="Happy" width="280" />
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/carlos-miguel-380413197">
-      <img alt="Carlos Miguel" src="https://img.shields.io/badge/-Carlos%20Miguel-5659EB?style=for-the-badge&logo=Linkedin&logoColor=white" />
-   </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/solrachix/happy?style=for-the-badge&label=Repo%20Size:&labelColor=5659EB&color=5659EB" />
-	<br />
-  <a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/2">
-    <img src="https://img.shields.io/badge/Happy-NLW%202.0-5659EB?style=for-the-badge&labelColor=5659EB&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
-  </a>
-  <a href="https://github.com/solrachix/happy/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/solrachix/happy?style=for-the-badge&label=last%20commit:&labelColor=5659EB&color=5659EB" />
-  </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-5659EB?style=for-the-badge&labelColor=5659EB&color=5659EB" />
-  <br />
-  <a href="https://github.com/solrachix/happy/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/solrachix/happy?color=5659EB&logo=github" />
-  </a>
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
 </p>
 
-> :rocket: Project made to connect teachers to students, made in Next Level Week #2 @Rocketseat
+<br>
 
 <p align="center">
-  <a href="https://github.com/solrachix/Happy/tree/master/packages/web">
-    <img src="https://img.shields.io/badge/WEB-5659EB?logo=typescript&logoColor=47248F&label=Happy&labelColor=5659EB&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/solrachix/Happy/tree/master/packages/server">
-    <img src="https://img.shields.io/badge/BACKEND-F25040?logo=Node.js&logoColor=e52310&label=Happy&labelColor=F25040&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/solrachix/Happy/tree/master/packages/mobile">
-    <img src="https://img.shields.io/badge/MOBILE-494949?logo=react&logoColor=161616&label=Happy&labelColor=494949&style=for-the-badge" />
-  </a>
+  <img alt="Happy" src=".github/happy.png" width="100%">
 </p>
 
-<div align="center">
-  <sub>The NLW #2 project. Built with ❤︎ by
-    <a href="https://github.com/solrachix">Carlos Miguel</a> and
-    <a href="https://github.com/solrachix/Happy/graphs/contributors">
-      contributors
-    </a>
-  </sub>
-</div>
+## 🚀 Tecnologias
 
-# :pushpin: Table of Contents
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [:pushpin: Table of Contents](#pushpin-table-of-contents)
-- [:computer: Technologies](#computer-technologies)
-- [:rocket: Features](#rocket-features)
-- [:construction_worker: How to run](#construction_worker-how-to-run)
-    - [📦 Run API](#-run-api)
-    - [💻 Run Web Project](#-run-web-project)
-    - [📱 Run Mobile Project](#-run-mobile-project)
-- [:bug: Issues](#bug-issues)
-- [:tada: Contributing](#tada-contributing)
-- [:closed_book: License](#closed_book-license)
-	<img src="https://github.com/solrachix/Happy/blob/master/.github/adornment-1.png?raw=true"
-	width="280px"
-	height="120px"
-	align="right" />
-* [License](#closed_book-license)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-<h2 align="left"> 📥 Layout available for download at: </h2>
-<p align="center">
-    <a title="Download .fig Mobile" href="https://github.com/solrachix/Happy/raw/master/.github/Prototyping.fig">
-        <img alt="Direct Download" src="https://img.shields.io/badge/Download Prototyping-black?style=flat-square&logo=figma&logoColor=ff8f7c&color=F25040" width="215px"/>
-    </a>
-</p>
+## 💻 Projeto
 
-# :computer: Technologies
-This project was made using the follow technologies:
- <img
-	src="https://github.com/solrachix/Happy/blob/master/.github/adornment-2.png?raw=true"
-	width="280px"
-	height="240px"
-	align="right"
-/>
-* [Expo](https://expo.io/)
-* [Express](https://expressjs.com/)
-* [Typescript](https://www.typescriptlang.org/)
-* [React](https://reactjs.org/)
-* [Styled Components](https://styled-components.com/)
+O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
 
+## 🔖 Layout
 
-# :rocket: Features
- <img
-	src="https://github.com/solrachix/Happy/blob/master/.github/bolinhas-3.png?raw=true"
-	width="40px"
-	height="26px"
-	align="center"
-/>
-* Website to sign up teachers and students.
-* App to connect teachers and students.
- <img
-	src="https://github.com/solrachix/Happy/blob/master/.github/bolinhas-3.png?raw=true"
-	width="40px"
-	height="26px"
-	align="right"
-/>
-# :construction_worker: How to run
-```bash
-# Clone Repository
-$ git clone https://github.com/solrachix/Happy.git
-```
-### 📦 Run API
+Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-```bash
-# Go to server folder
-$ cd Happy/packagers/server
+- [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
+- [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
 
-# Install Dependencies
-$ yarn install
+## 🧠 Desafio
 
-# Run Aplication
-$ yarn start
-```
-Access API at http://localhost:3333/
+No link a seguir você encontra o guia no Notion referente aos desafios propostos para que você possa percorrer a milha extra e incrementar ainda mais essa aplicação. Lá também você encontra um guia mostrando todo o passo a passo de como realizar o deploy tanto do backend quanto do frontend.
 
-### 💻 Run Web Project
+- [Desafio Happy 2.0](https://www.notion.so/Vers-o-2-0-do-Happy-c754db7a4d41469e8c2d00fcf75392c4)
 
-```bash
-# Go to web folder
-$ cd Happy/packagers/web
+## :memo: Licença
 
-# Install Dependencies
-$ yarn install
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-# Run Aplication
-$ yarn start
-```
-Go to http://localhost:3000/ to see the result.
+---
 
-### 📱 Run Mobile Project
-
-To run the mobile project you need a cellphone with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instaled or a emulator android/ios.
-<br />
-After, fork this repository and clone to your machine. Inside of the project's folder run the following commands:
-
-```bash
-# Go to mobile folder
-$ cd Happy/packagers/mobile
-
-# Install Dependencies
-$ yarn install
-
-# Run Aplication
-$ yarn start
-```
-Aferter read the QRCode with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) or run on emulator.
-
-
-# :bug: Issues
-
-Feel free to **file a new issue** with a respective title and description on the the [Happy](https://github.com/sorachix/Happy/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
-
-# :tada: Contributing
-<img
-	src="https://github.com/solrachix/Happy/blob/master/.github/adornment-5.png?raw=true"
-	width="200px"
-	height="160px"
-	align="right"
-/>
-Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
-
-# :closed_book: License
-
-Released in 2020 :closed_book: License
-
-Made with love by [Carlos Miguel](https://github.com/solrachix) 🚀.
-This project is under the [MIT license](./LICENSE).
-
-
-Give a ⭐️ if this project helped you!
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
