@@ -1,8 +1,8 @@
 {
   "project_name": "Happy",
   "type": "Fullstack",
-  "template_url": "https://github.com/rocketseat-education/nlw-03-omnistack/blob/master/.github/logo.svg",
-  "logo_url": "https://github.com/rocketseat-education/nlw-03-omnistack/blob/master/.github/happy.png",
+  "template_url": "./.github/cover.svg",
+  "logo_url": "https://github.com/rocketseat-education/nlw-03-omnistack/blob/master/.github/logo.svg",
 
   "backend": "./packages/server",
   "web": "./packages/web",
